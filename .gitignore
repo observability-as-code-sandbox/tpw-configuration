@@ -1,0 +1,4 @@
+.local.*
+*token*
+exported_configuration/*.json
+/data/*

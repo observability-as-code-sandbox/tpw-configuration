@@ -1,0 +1,26 @@
+[
+    {
+        "id": "5653b879ab33a",
+        "productBrand": "BootsCompany",
+        "userRating": 3,
+        "price": 2006.41,
+        "productName": "Boots",
+        "description": "Shoes"
+    },
+    {
+        "id": "5653b879700",
+        "productBrand": "ScarfCompany",
+        "userRating": 1,
+        "price": 7800.13,
+        "productName": "Scarf",
+        "description": "Accessories"
+    },
+    {
+        "id": "5445uk9080",
+        "productBrand": "ShoesCompany",
+        "userRating": 1,
+        "price": 200.13,
+        "productName": "Shoes",
+        "description": "Shoes"
+    }
+]
